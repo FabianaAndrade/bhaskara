@@ -30,4 +30,4 @@ function Calcular() {
             res.innerHTML += `<p> O valor do X2 é: ${X2} </p>`
            
         } 
-        
+    }
